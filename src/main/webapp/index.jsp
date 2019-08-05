@@ -6,6 +6,6 @@
 </head>
 <body>
 <h2>Get Started!!</h2>
-<a href="/Hello">Next page</a>
+<a href="/Hello.html">Next page</a>
 </body>
 </html>
