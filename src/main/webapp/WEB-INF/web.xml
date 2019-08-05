@@ -4,7 +4,7 @@
 
 <web-app>
   <display-name>Web Application</display-name>
-<!-- <servlet>
+<servlet>
     <servlet-name>Clock</servlet-name>
     <servlet-class>servlets.ClockServlet</servlet-class>
 </servlet>
@@ -12,5 +12,5 @@
         <servlet-name>Clock</servlet-name>
         <url-pattern>/clock</url-pattern>
     </servlet-mapping>
--->
+
 </web-app>
